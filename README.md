@@ -5,8 +5,8 @@ Quick starter for rust canvas based app. Uses https://github.com/Rust-SDL2/rust-
 ## Quick start Mac
 
 prerequisites: 
-* (homebrew)[https://brew.sh/]
-* (rust)[https://www.rust-lang.org/tools/install]
+* [homebrew](https://brew.sh/)
+* [rust](https://www.rust-lang.org/tools/install)
 
 ```
 cargo generate --git https://github.com/JanKaczmarkiewicz/rust-canvas-app
@@ -24,7 +24,7 @@ cargo run
 ## Quick start Linux
 
 prerequisites: 
-* (rust)[https://www.rust-lang.org/tools/install]
+* [rust](https://www.rust-lang.org/tools/install)
 
 ```
 cargo generate --git https://github.com/JanKaczmarkiewicz/rust-canvas-app
