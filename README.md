@@ -33,3 +33,7 @@ sudo apt-get install libsdl2-dev libsdl2-image-dev libsdl2-ttf-dev
 
 cargo run
 ```
+
+## vscode features
+
+For best experiece please install recommeded extentions.
